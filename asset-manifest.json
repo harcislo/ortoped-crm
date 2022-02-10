@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/ortoped-crm/static/css/main.0e7bdc4f.css",
+    "main.js": "/ortoped-crm/static/js/main.e012c116.js",
+    "index.html": "/ortoped-crm/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.0e7bdc4f.css",
+    "static/js/main.e012c116.js"
+  ]
+}
