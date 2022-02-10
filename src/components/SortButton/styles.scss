@@ -1,0 +1,16 @@
+.caret,
+.caret-down {
+  color: rgb(206, 197, 197);
+  &.active {
+    color: #1890ff;
+  }
+}
+
+.caret-down {
+  margin-top: -5px;
+}
+
+.caret:hover,
+.caret-down:hover {
+  color: rgb(85, 159, 243);
+}

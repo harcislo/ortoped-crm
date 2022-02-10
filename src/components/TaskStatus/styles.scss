@@ -1,0 +1,11 @@
+.tracker-status {
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.07);
+  width: 100%;
+  text-align: center;
+  &:hover {
+    opacity: 0.85;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.09);
+  }
+}
